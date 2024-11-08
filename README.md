@@ -9,5 +9,7 @@ FarhhanSyed/FarhhanSyed is a ✨ special ✨ repository because its `README.md` 
 You can click the P review link to take a look at your changes.
 --->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarhhanSyed)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarhhanSyed&theme=dark&hide_border=true)
+
+
 
