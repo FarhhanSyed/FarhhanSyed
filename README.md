@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarhhanSyed
 - 🌱 I’m currently learning ... MongoDB
 - 📫 How to reach me ...www.linkedin.com/in/syedfarhan45
-- 😄 Pronouns: ...He/Him  
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I believe in the power of Ctrl+Z, both in coding and in life! ⏪
 
 <!---
